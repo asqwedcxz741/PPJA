@@ -38,13 +38,13 @@
     "NameLocalization":
     {
         // "es": "",
-        // "ko": "",
+        "ko": "연어 오니기리",
         // "de": "",
         "fr": "Onigiri au saumon",
         // "hu": "",
         // "it": "",
         // "ja": "",
-        // "pt": "",
+         "pt": "Salmon Onigiri",
         // "ru": "",
         // "tr": "",
          "zh": "三文鱼饭团",
@@ -52,13 +52,13 @@
     "DescriptionLocalization":
     {
         // "es": "",
-        // "ko": "",
+        "ko": "일본식 연어 주먹밥.",
         // "de": "",
         "fr": "Un plat typiquement japonais.",
         // "hu": "",
         // "it": "",
         // "ja": "",
-        // "pt": "",
+         "pt": "Uma comida japonesa quintessencial.",
         // "ru": "",
         // "tr": "",
          "zh": "典型的日本风味食物。",

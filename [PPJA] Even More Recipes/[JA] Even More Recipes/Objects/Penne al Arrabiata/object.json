@@ -41,13 +41,13 @@
     "NameLocalization":
     {
         // "es": "",
-        // "ko": "",
+        "ko": "펜네 아라비타",
         "de": "Penne al Arrabiata",
         "fr": "Penne à l'arrabbiata",
         // "hu": "",
         // "it": "",
         // "ja": "",
-        // "pt": "",
+         "pt": "Penne al Arrabiata",
         // "ru": "",
         // "tr": "",
          "zh": "香辣茄酱直通粉",
@@ -55,13 +55,13 @@
     "DescriptionLocalization":
     {
         // "es": "",
-        // "ko": "",
+        "ko": "아주 매운 이탈리아 고전 파스타.",
         "de": "Ein recht scharfer Italienischer Klassiker",
         "fr": "Un classique italien très épicé.",
         // "hu": "",
         // "it": "",
         // "ja": "",
-        // "pt": "",
+         "pt": "Um clássico italiano muito picante.",
         // "ru": "",
         // "tr": "",
          "zh": "非常辣的意大利经典面食。",

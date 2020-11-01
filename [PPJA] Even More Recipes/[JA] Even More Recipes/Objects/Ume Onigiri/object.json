@@ -42,13 +42,13 @@
     "NameLocalization":
     {
         // "es": "",
-        // "ko": "",
+        "ko": "매실 오니기리",
         // "de": "",
         "fr": "Onigiri à l'umé",
         // "hu": "",
         // "it": "",
         // "ja": "",
-        // "pt": "",
+         "pt": "Ume Onigiri",
         // "ru": "",
         // "tr": "",
          "zh": "梅子饭团",
@@ -56,13 +56,13 @@
     "DescriptionLocalization":
     {
         // "es": "",
-        // "ko": "",
+        "ko": "일본식 매실 주먹밥.",
         // "de": "",
         "fr": "Un plat japonais traditionnel avec de l'umé.",
         // "hu": "",
         // "it": "",
         // "ja": "",
-        // "pt": "",
+         "pt": "Uma comida japonesa quintessencial.",
         // "ru": "",
         // "tr": "",
          "zh": "典型的日本食物。",

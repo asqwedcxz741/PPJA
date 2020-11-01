@@ -39,13 +39,13 @@
     "NameLocalization":
     {
         // "es": "",
-        // "ko": "",
+        "ko": "비스킷과 그레이비",
         // "de": "",
         "fr": "Pain brioché et sauce de viande",
         // "hu": "",
         // "it": "",
         // "ja": "",
-        // "pt": "",
+         "pt": "Biscoitos e Molho",
         // "ru": "",
         // "tr": "",
          "zh": "比斯吉佐肉汁",
@@ -53,13 +53,13 @@
     "DescriptionLocalization":
     {
         // "es": "",
-        // "ko": "",
+        "ko": "수제 비스킷이 포함 된 클래식 한 아침 식사.",
         // "de": "",
         "fr": "Un classique du petit déjeuner avec du pain brioché fait maison.",
         // "hu": "",
         // "it": "",
         // "ja": "",
-        // "pt": "",
+         "pt": "Um clássico do café da manhã com alguns biscoitos caseiros.",
         // "ru": "",
         // "tr": "",
          "zh": "搭配自制饼干就是一份经典的早餐。",

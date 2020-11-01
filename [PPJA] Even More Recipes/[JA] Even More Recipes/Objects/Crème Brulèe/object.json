@@ -41,13 +41,13 @@
     "NameLocalization":
     {
         // "es": "",
-        // "ko": "",
+        // "ko": "구운 크림",
         "de": "Crème Brûlée",
         "fr": "Crème brûlée",
         // "hu": "",
         // "it": "",
         // "ja": "",
-        // "pt": "",
+         "pt": "Creme Queimado",
         // "ru": "",
         // "tr": "",
          "zh": "法式焦糖布丁",
@@ -55,13 +55,13 @@
     "DescriptionLocalization":
     {
         // "es": "",
-        // "ko": "",
+        "ko": "시대를 초월한 클래식.",
         "de": "Ein zeitloses Dessert",
         "fr": "Un classique indémodable.",
         // "hu": "",
         // "it": "",
         // "ja": "",
-        // "pt": "",
+         "pt": "Um clássico atemporal.",
         // "ru": "",
         // "tr": "",
          "zh": "永恒的经典。",
